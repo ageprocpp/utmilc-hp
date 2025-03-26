@@ -49,7 +49,7 @@ export default function Page() {
       {/* 役員紹介 */}
       <div className="flex items-center gap-2">
         <BsFillSquareFill className="text-[#4A5568]" />
-        <h2 className="text-2xl font-semibold">2023年度役員紹介</h2>
+        <h2 className="text-2xl font-semibold">2025年度役員紹介</h2>
       </div>
       <table className="mt-4 w-full">
         <tbody>
