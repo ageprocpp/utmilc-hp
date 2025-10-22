@@ -9,7 +9,7 @@ type _Data = {
 
 export const fetchYears = async () => {
   const res = await fetch(`${nextPrefix()}/awards/years`);
-  const data: _Data = await res.json();
+  const data: _Data = await res.json();a
 
   return data.data;
 };

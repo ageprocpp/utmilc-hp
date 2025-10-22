@@ -9,7 +9,7 @@ import { Provider } from "@/components/provider";
 export const metadata = {
   metadataBase: new URL(
     process.env.NODE_ENV === "production"
-      ? "https://www.utmilc.com"
+      ? "https://utmilc.com"
       : "http://localhost:3000"
   ),
   title: "東京大学現代国際法研究会",
